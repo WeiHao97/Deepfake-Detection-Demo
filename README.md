@@ -23,6 +23,8 @@ To view the AI Detection Demo Page, you can clone this repository and open the `
 ```bash
 git clone https://github.com/yourusername/ai-detection-demo.git
 cd ai-detection-demo
+```
+
 # Open index.html in your browser
 
 ## How to Use
