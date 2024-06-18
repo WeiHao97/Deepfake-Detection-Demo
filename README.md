@@ -1,5 +1,7 @@
 
-# AI Detection Demo Page
+# RAIDAR AI Generated Text and Audio Detection Demo
+
+Link to paper: https://arxiv.org/abs/2401.12970
 
 This repository hosts the AI Detection Demo Page, designed to showcase the capabilities of the "Raidar" system developed by Columbia Researchers. This interactive web demo focuses on distinguishing between human-generated and AI-generated texts, including code, highlighting potential applications and ethical considerations.
 
