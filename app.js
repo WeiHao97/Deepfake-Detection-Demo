@@ -33,7 +33,7 @@ app.post('/send', async (req, res) => {
     const mailOptions = {
         from: 'rny50265@gmail.com',  // Sender address
         to: 'rny50265@gmail.com',                     // List of recipients
-        subject: 'New Contact Submission',  // Subject line
+        subject: 'Contact Submission // RAIDAR Demo',  // Subject line
         text: `Contact Email: ${email}; Purpose of Contact: ${purpose}`  // Plain text body
     };
 
