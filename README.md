@@ -30,12 +30,11 @@ Before running this application, you will need:
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/ai-detection-demo.git
-cd ai-detection-demo
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd your-repository
+cd Deepfake-Detection-Demo
 ```
 
 ## Configuration
@@ -71,16 +70,6 @@ Navigate through the page using the buttons provided to switch between the voice
 - **Text Detection Demo**: Click on the "Text Detection Demo" button.
 
 The results and functionality of each demo are displayed within iframes sourced from external URLs, showcasing real-time detection capabilities.
-
-## Contributing
-
-Contributions to this project are welcome. To contribute:
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
 
 
 
